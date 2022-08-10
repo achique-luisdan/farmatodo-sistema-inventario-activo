@@ -16,11 +16,11 @@ En este orden de ideas, al tener una idea general de las dos (2) nuevas funciona
 
 Los componentes de Base de datos (DB) y Backend (API) fueron desarrollados por la profesional Génesis; el componente frontend fue mi responsabilidad:
 
-Módulo > Menú > Funcionalidad
+**Módulo > Menú > Funcionalidad**
 
-Autogestión > Utilidades > Gestión Utilidades
+**Autogestión > Utilidades > Gestión Utilidades**
 
-Gestión Licencias > Licencias > Gestión Licencias
+**Gestión Licencias > Licencias > Gestión Licencias**
 
 Estas nuevas funcionalidades fueron implementadas con éxito de forma satisfactoria durante el tiempo estimado, además se realizó la migración a la versión v14 de Angular y se activó el switcheo multi-país.
 
