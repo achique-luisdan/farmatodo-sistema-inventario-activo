@@ -64,7 +64,7 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
  
 * [Angular Material v14](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
 
-* [NgRx](https://ngrx.io/) - Gestión del Estado Global de Aplicaciones Angular
+* [NgRx v14.1.0](https://ngrx.io/) - Gestión del Estado Global de Aplicaciones Angular
 
 ## Equipo (Team) ✒️
 
