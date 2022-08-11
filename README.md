@@ -28,7 +28,7 @@ Posteriormente, desde la sinergia y el feedback de los profesionales Carlos, Emm
 
 En este sentido, progresivamente se aplicaron con éxito los cambios para ambos países (VE, CO) en todos los módulos, menús y funcionalidades.
 
-## Características(Features) ❤️
+## Características (Features) ❤️
 
 
 Inicio de Sesión (Login)
