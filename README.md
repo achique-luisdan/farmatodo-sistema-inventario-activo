@@ -82,7 +82,7 @@ A continuación se menciona a todos aquellos que participaron:
 <div aling="center">
 <a href="https://www.linkedin.com/in/genesisc-martinezjaspe"><b>Génesis Martínez</b></a>
 
-![Foto de Genesis](./gene.jpg)
+![Foto de Genesis](./gene.png)
 
 <b>Ingeniera de Desarrollo de Aplicaciones TI</b>
 
