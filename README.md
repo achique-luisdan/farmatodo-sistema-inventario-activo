@@ -70,9 +70,24 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
 
 A continuación se menciona a todos aquellos que participaron:
 
-* **Genesis Martinez** - *Desarrolladora Web Backend*  -  *Líder Técnico*
+* **Génesis Martínez** - *Desarrolladora Web Backend*  -  *Líder Técnico* 
   
 * **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan)
 
 ## Reseñas (Reviews) 💞
 
+
+
+<section align="center">
+<div aling="center">
+<a href="https://www.linkedin.com/in/genesisc-martinezjaspe"><b>Génesis Martínez</b></a>
+
+![Foto de Genesis](./gene.png)
+
+<b>Ingeniera de Desarrollo de Aplicaciones TI</b>
+
+<b>Farmatodo</b>
+</div>
+</section>
+
+Como todo portal es necesario avanzar e ir generando mejoras a nuestros usuarios internos, para nuestro Sistema de Inventario Activo (SIA), nos planteamos en la necesidad de crear unos nuevos módulos para que los clientes autogeneren las listas dentro del portal y poder realizar el seguimiento y control de las licensias de la organización. Gracias a Luis Achique, este proyecto se pudo materializar en menos de 3 meses, ya que con su amplio conocimiento de Angular 14, buenas practicas y documentación que ha venido realizando dentro del equipo de desarrollo de Farmatodo, se ha logrado un sistema de calidad satifaciendo asi a las necesidades de nuestros usuarios. Es por ello que considero que Luis es un recurso responsable, comprometido y capaz de integrarse en cualquier equipo de alto desempeño.
