@@ -70,7 +70,7 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
 
 A continuación se menciona a todos aquellos que participaron:
 
-* **Genesis Martinez** - *Desarrolladora Web Backend*
+* **Genesis Martinez** - *Desarrolladora Web Backend* | *Líder Técnico*
   
 * **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan)
 
